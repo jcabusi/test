@@ -1,2 +1,2 @@
 print "hello"
-print "fixing a bug"
+print 'world'
